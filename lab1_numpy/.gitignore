@@ -1,0 +1,5 @@
+.mypy_cache/
+*.pyc
+AGENTS.md
+GEMINI.md
+CLAUDE.md

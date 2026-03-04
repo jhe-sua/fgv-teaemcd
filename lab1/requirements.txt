@@ -1,8 +1,0 @@
-# Imported by repo code / notebooks
-matplotlib
-numpy
-seaborn
-
-# Required by assessment exercises referenced in the notebooks
-pandas
-scikit-learn
