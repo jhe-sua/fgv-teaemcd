@@ -1,3 +1,5 @@
+- ! Todas as tarefas tem pegadinhas
+
 - Limpar os dados
 - Normalizar os dados
 - Contruir uma rede neural para prever o desempenho dos estudantes
